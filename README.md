@@ -1,4 +1,27 @@
-# Lisha-Qu_24_CS206
-Hi, this is Lisha Qu, a sophormore student at dku. My major is mathematics with track in computer science.
-<img src="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/Lisha-Qu_24_CS206/main/DALL%C2%B7E%202024-04-01%2014.30.25%20-%20A%20nature%20landscape%20inspired%20by%20the%20Ukiyo-e%20style%2C%20featuring%20a%20harmonious%20blend%20of%20traditional%20Japanese%20art%20characteristics.%20The%20scene%20showcases%20a%20maje.webp" width="600" height="400">
+<!-- Centered introduction -->
+<h1 align="center">Hi there 👋, I'm Lisha Qu</h1>
+<h2 align="center">A Passionate Sophomore in Computer Science 🚀</h2>
 
+<p align="center">
+  <img src="URL_OF_YOUR_PROFILE_IMAGE" alt="Profile Banner Image">
+</p>
+
+<!-- Markdown for other content -->
+### 🌱 I'm currently learning:
+- Federated Learning
+- Neural Networks
+- Quantum Computing
+
+### 💬 Ask me about:
+- Mathematics
+- Computer Science Projects
+
+### 📫 How to reach me:
+- Email: [lisha.qu@dukekunshan.edu.cn](mailto:lisha.qu@dukekunshan.edu.cn)
+
+<!-- Centered social media or contact links -->
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub followers">
+  </a>
+</p>
