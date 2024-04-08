@@ -11,10 +11,10 @@ By enabling remote, high-computing, burdened working, especially for women who a
 
 In conclusion, Claudia Goldin and Jack Dongarra inspire my vision of contributing to high computing implemented for remote work, which can provide more working opportunities for women burdened by caring responsibilities.
 <p align="center">
-  <img src="https://github.com/Rising-Stars-by-Sunshine/Lisha-Qu_24_CS206/blob/main/DALL%C2%B7E%202024-04-08%2018.54.10%20-%20An%20endearing%20portrait%20of%20a%20cat%2C%20eyes%20twinkling%20with%20starlight%2C%20gentle%20grin%2C%20amidst%20a%20surreal%20cosmic%20backdrop.%20Velvet%20fur%2C%20heartwarming%20gaze%2C%20reflectin.webp" alt="Profile Banner Image" width="600">
+  <img src="https://github.com/Rising-Stars-by-Sunshine/Lisha-Qu_24_CS206/blob/main/Advanced_CSEcon/CS206_1.png" alt="Profile Banner Image" width="600">
 </p>
 <p align="center">
-  <img src="https://github.com/Rising-Stars-by-Sunshine/Lisha-Qu_24_CS206/blob/main/DALL%C2%B7E%202024-04-08%2018.54.10%20-%20An%20endearing%20portrait%20of%20a%20cat%2C%20eyes%20twinkling%20with%20starlight%2C%20gentle%20grin%2C%20amidst%20a%20surreal%20cosmic%20backdrop.%20Velvet%20fur%2C%20heartwarming%20gaze%2C%20reflectin.webp" alt="Profile Banner Image" width="600">
+  <img src="https://github.com/Rising-Stars-by-Sunshine/Lisha-Qu_24_CS206/blob/main/Advanced_CSEcon/CS206_2.png" alt="Profile Banner Image" width="600">
 </p>
 
 **Question2:**
@@ -25,7 +25,7 @@ Computer science and economics are interconnected: economics provides theoretica
 Machine learning, on the other hand, integrates economic theories related to predictive modelling, risk assessment, and decision-making under uncertainty. Machine learning algorithms are trained on historical market data to learn patterns and relationships, enabling traders to forecast future price movements, estimate risk exposure, and optimize trading strategies. Economic theories such as efficient market hypothesis, behavioural finance, and risk-return tradeoffs inform the design and evaluation of machine learning models used in algorithmic trading.
 
 <p align="center">
-  <img src="https://github.com/Rising-Stars-by-Sunshine/Lisha-Qu_24_CS206/blob/main/DALL%C2%B7E%202024-04-08%2018.54.10%20-%20An%20endearing%20portrait%20of%20a%20cat%2C%20eyes%20twinkling%20with%20starlight%2C%20gentle%20grin%2C%20amidst%20a%20surreal%20cosmic%20backdrop.%20Velvet%20fur%2C%20heartwarming%20gaze%2C%20reflectin.webp" alt="Profile Banner Image" width="600">
+  <img src="https://github.com/Rising-Stars-by-Sunshine/Lisha-Qu_24_CS206/blob/main/Advanced_CSEcon/CS206_3.png" alt="Profile Banner Image" width="300">
 </p>
 
 
@@ -40,7 +40,7 @@ Furthermore, Chen et al. (2023) examine the economic rationality of current GPT 
 
 These examples demonstrate that while AI agents can simulate human-like thinking, they still exhibit irrationality in specific topics or frames. Therefore, while rationality reveals similarities between humans and AI agents, the presence of "imperfect" irrationality distinguishes them. This evolving interplay between humans and AI agents in strategic contexts calls for a nuanced understanding beyond traditional models, incorporating insights from behavioural economics, game theory, and AI research.
 <p align="center">
-  <img src="https://github.com/Rising-Stars-by-Sunshine/Lisha-Qu_24_CS206/blob/main/DALL%C2%B7E%202024-04-08%2018.54.10%20-%20An%20endearing%20portrait%20of%20a%20cat%2C%20eyes%20twinkling%20with%20starlight%2C%20gentle%20grin%2C%20amidst%20a%20surreal%20cosmic%20backdrop.%20Velvet%20fur%2C%20heartwarming%20gaze%2C%20reflectin.webp" alt="Profile Banner Image" width="600">
+  <img src="https://github.com/Rising-Stars-by-Sunshine/Lisha-Qu_24_CS206/blob/main/Advanced_CSEcon/CS206_4.png" alt="Profile Banner Image" width="600">
 </p>
 
 
