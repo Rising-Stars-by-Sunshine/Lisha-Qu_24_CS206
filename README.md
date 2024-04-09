@@ -32,7 +32,7 @@
 * "Python", "Java", "C++"
 
 ## ✅ Repository Introduction
-This repository serves as a compilation of my solutions to Problem Set 1 from the COMSCI/ECON 206 Computational Microeconomics course instructed by Prof. Luoyao Zhang. Each folder and file reflects my approach to the challenges presented in the course, demonstrating my analytical skills and theoretical understanding.
+This repository is a collection of my responses to the first problem set from the COMSCI/ECON 206 Computational Microeconomics course, taught by Professor Luoyao Zhang. The contents of each folder and file represent my methods for tackling the course's challenges, showcasing my ability to analyze and grasp theoretical concepts.
 
 ## 📚 Table of Contents
 - [CSEcon](#CSEcon)
