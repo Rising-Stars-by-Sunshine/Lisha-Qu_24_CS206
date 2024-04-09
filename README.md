@@ -22,4 +22,22 @@
 ### 📫 How to reach me:
 - Email: [lisha.qu@dukekunshan.edu.cn](mailto:lisha.qu@dukekunshan.edu.cn)
 
+# Repository Name
+
+## Ask me about:
+* Anything related to my interests
+* Computer Science Projects
+
+## 🛠️ Technical Skills:
+* "Python", "Java", "C++"
+
+## ✅ Repository Introduction
+This repository serves as a compilation of my solutions to Problem Set 1 from the COMSCI/ECON 206 Computational Microeconomics course instructed by Prof. Luoyao Zhang. Each folder and file reflects my approach to the challenges presented in the course, demonstrating my analytical skills and theoretical understanding.
+
+## 📚 Table of Contents
+- [CSEcon](#CSEcon)
+- [Advanced_CSEcon](#Advanced_CSEcon)
+
+
+
 
