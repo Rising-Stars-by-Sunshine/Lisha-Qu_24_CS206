@@ -42,6 +42,7 @@ These examples demonstrate that while AI agents can simulate human-like thinking
 <p align="center">
   <img src="https://github.com/Rising-Stars-by-Sunshine/Lisha-Qu_24_CS206/blob/main/Advanced_CSEcon/CS206_4.png" alt="Profile Banner Image" width="600">
 </p>
+<img width="778" alt="截屏2024-04-09 23 50 59" src="https://github.com/Rising-Stars-by-Sunshine/Lisha-Qu_24_CS206/assets/126450059/49d6626e-5dd0-4895-b89a-14de1c20249c">
 
 
 **Bibliography:**
