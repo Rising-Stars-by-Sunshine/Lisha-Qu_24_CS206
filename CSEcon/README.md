@@ -1,11 +1,11 @@
 Lisha Qu
 
-Question1:
+Question1: 
 ---
+**When computer science meets economics: Who do you truly want to become? Pick one of your favorite Nobel Prize winners (https://www.nobelprize.org/) and Turing Award winners (https://amturing.acm.org/). How do you want to contribute to the intersection of the two north stars to advance human civilizations?**
+
+
 After practicing with Otree, I found it a convenient and flexible application for experimental game theory. However, limitations still exist, and I will explain them from three aspects: 
-
-
-
 
 a) Firstly, oTree's intricate interface has many undefined terms, like parameters that are unfriendly to the green hand, especially for researchers lacking advanced academic expertise. My own experience deploying the trust game revealed the arduous task of configuring instructions and payment mechanisms. A brief explanation of each page's functions and its details and intuitive design features are imperative to overcome this challenge. For example, the tree lacks quick-access guidance on each parameter of the Game. In detail, on the 'trust' part to modify the game theory, it did not explicitly explain the functions of Integers. Having a brief function introduction would be a good choice. 
 
@@ -14,11 +14,13 @@ b) Secondly, oTree neglects essential psychological factors such as emotions and
 c) Furthermore, oTree's simplistic assumption of one-time games fails to capture the complexities of real-world interactions characterized by repeated engagements and learning from past experiences. My attempt to model repeated trust games using Otree felt restrictive. An advanced solution must accommodate long-term relationships, reputations, and learning dynamics inherent in strategic interactions. Also, stimulative awards should be added, like some priorities in game theory.
 
 'Game theory: Playing with Behavior: Game Theory and Behavioral Modeling，' March 2, 2024. Game Theory: Playing with Behavior: Game Theory and Behavioral Modeling - FasterCapital
+<img width="773" alt="截屏2024-04-09 23 53 00" src="https://github.com/Rising-Stars-by-Sunshine/Lisha-Qu_24_CS206/assets/126450059/a4def973-14b5-4420-ba6e-f29bf2d30ab6">
 
 
 
-Question 2 
+Question 2： 
 ---
+**CS&Econ for a Better Future: How do you perceive the synergy between computer science and economics as a catalyst for steering innovation toward a brighter future? Please present a foundational assertion, followed by multiple specific instances that support your claim, including a reference to a topic discussed at the colloquium on Friday, March 22.**
 
 1. Limitations of Current MARL Frameworks:
 
@@ -43,11 +45,13 @@ Question 2
  Algorithm Customizations: Enhanced algorithm customizations empower agents to develop more sophisticated strategies for playing 2048. For example, agents could employ strategic planning techniques to anticipate future tile placements and optimize their moves accordingly. Additionally, agents could learn from human gameplay data to incorporate expert strategies into their decision-making process. Imagine an advanced MARL framework for playing 2048 where agents are trained using deep reinforcement learning algorithms such as Deep Q-Networks (DQN) or Proximal Policy Optimization (PPO). These agents interact with the game environment and learn from their experiences to improve their gameplay over time.
 
 In this framework, agents learn to recognize patterns in the game board and develop strategies for combining tiles efficiently. They learn to prioritize certain moves over others based on their potential to create high-valued tiles and achieve higher scores.
+<img width="777" alt="截屏2024-04-09 23 54 19" src="https://github.com/Rising-Stars-by-Sunshine/Lisha-Qu_24_CS206/assets/126450059/1108d1b7-c804-4d16-b457-5dd3adb927b0">
 
 
 
-Question 3 Brainstorm your research idea by criticizing existing research: 
+Question 3：
 ---
+**Beyond CS & Econ: How are aspects of human nature, like bounded rationality, and pioneering technologies, such as generative AI, reshaping the dynamics between humans and AI agents in strategic contexts? Additionally, how might this interplay be perceived and conceptualized distinctively from current models? Address this inquiry by drawing upon the literature covered in our lectures and supplementary scholarly works, ensuring to include in-text citations and a comprehensive bibliography.**
 
 1. Summary of the Paper
 
@@ -77,7 +81,8 @@ The responses raise valid points about the limitations and uncertainties surroun
 
 In light of the rapid advancements in technology, Blockchain technology, for example, offers the potential to enhance the transparency and security of federated learning processes by providing an immutable ledger for tracking model updates and participant contributions. Integrating generative AI models within the federated learning framework could address data scarcity and privacy concerns by synthesizing realistic datasets for training models.
 
-5. Beyond Computer Science and Economics
+<img width="778" alt="截屏2024-04-09 23 56 26" src="https://github.com/Rising-Stars-by-Sunshine/Lisha-Qu_24_CS206/assets/126450059/1cb18512-541f-44cb-bb1d-53dbb119841f">
+
 
 
 Bibliography:
