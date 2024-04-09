@@ -35,8 +35,9 @@
 This repository is a collection of my responses to the first problem set from the COMSCI/ECON 206 Computational Microeconomics course, taught by Professor Luoyao Zhang. The contents of each folder and file represent my methods for tackling the course's challenges, showcasing my ability to analyze and grasp theoretical concepts.
 
 ## 📚 Table of Contents
-- [CSEcon](#CSEcon)
-- [Advanced_CSEcon](#Advanced_CSEcon)
+- [CSEcon](CSEcon/)
+- [Advanced CSEcon](Advanced_CSEcon/)
+
 
 
 
