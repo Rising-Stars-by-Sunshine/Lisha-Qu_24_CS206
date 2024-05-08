@@ -1,5 +1,6 @@
 [Project.pdf](CS206_Lisha_Project.pdf)
-[Background](Background.pdf)
+
+[Poster](Background.pdf)
 
 # Research Proposal on AI Strategy and Game Theory
 
