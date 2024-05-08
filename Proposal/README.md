@@ -1,6 +1,6 @@
 [Project.pdf](CS206_Lisha_Project.pdf)
 
-[Poster](Background.pdf)
+[Poster](Poster.pdf)
 
 [Latex](Latex)
 
