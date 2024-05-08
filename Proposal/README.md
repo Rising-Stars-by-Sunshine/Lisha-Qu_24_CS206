@@ -2,6 +2,7 @@
 
 [Poster](Background.pdf)
 
+[Latex](Latex)
 # Research Proposal on AI Strategy and Game Theory
 
 
