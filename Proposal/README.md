@@ -3,6 +3,8 @@
 [Poster](Background.pdf)
 
 [Latex](Latex)
+
+[Colab](colab)
 # Research Proposal on AI Strategy and Game Theory
 
 
